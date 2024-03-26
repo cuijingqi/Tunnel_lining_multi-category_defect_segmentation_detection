@@ -1,4 +1,6 @@
-# 2024.Tunnel_lining_multi-category_defect_segmentation_detection
+# 2024.
+
+# Tunnel_lining_multi-category_defect_segmentation_detection
 
 
 
@@ -18,10 +20,11 @@
   </p>
 <p align="center">
     <img src="image/1.png" height="250px"/>
-    <img src="image/2.png" height="250px"/>
-    <img src="image/3.png" height="250px"/>
-    <img src="image/4.png" height="250px"/>
+    <img src="image/2.png" height="200px"/>
+    <img src="image/3.png" height="200px"/>
+    <img src="image/4.png" height="200px"/>
 </p>
+
 
 
 
@@ -52,7 +55,7 @@ filetree
 │  ├── leakage
 │  ├── defects
 │  ├── no defects
-├── Tunnel disease detect.zip
+├── Tunnel disease detect
 ├── README.md
 
 ```
